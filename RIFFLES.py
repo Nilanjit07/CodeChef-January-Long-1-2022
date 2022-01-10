@@ -1,6 +1,6 @@
 #Problem Link : https://www.codechef.com/JAN221C/problems/RIFFLES
 #Problem Code : RIFFLES
-
+#This is the full solution of RIFFLES .
 
 T = int(input())
 while T:	
