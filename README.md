@@ -1,4 +1,4 @@
-# CodeChef_January_Long_1_2022
+# CodeChef January Long 1 2022
 
 Here are the Solutions for my January Long Challenge 2022 on CodeChef.
 
