@@ -1,6 +1,6 @@
 #Problem Link : https://www.codechef.com/JAN221C/problems/XORED
 #Problem Code : XORED
-#This is the Full Solution for XORED.
+#This is the Full Solution of XORED.
 
 #include <bits/stdc++.h>
 using namespace std;
